@@ -19,6 +19,14 @@ namespace HalloDoc.Controllers
         {
             return View();
         }
+        public IActionResult patient_site()
+        {
+            return View();
+        }
+        public IActionResult submit_request_screen()
+        {
+            return View();
+        }
 
 
         public IActionResult Privacy()
