@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "251c54f5-1364-45d7-9309-61460be0832b": {
+      "ProjectGuid": "251c54f5-1364-45d7-9309-61460be0832b",
+      "DisplayName": "HalloDoc",
+      "ColorIndex": 0
+    },
+    "5b46ed14-3121-4042-badb-21adfd62b0be": {
+      "ProjectGuid": "5b46ed14-3121-4042-badb-21adfd62b0be",
+      "DisplayName": "HalloDoc",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
