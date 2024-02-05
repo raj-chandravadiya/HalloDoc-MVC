@@ -27,6 +27,22 @@ namespace HalloDoc.Controllers
         {
             return View();
         }
+        public IActionResult create_patient_request()
+        {
+            return View();
+        }
+        public IActionResult create_familyfriend_request()
+        {
+            return View();
+        }
+        public IActionResult create_concierge_request()
+        {
+            return View();
+        }
+        public IActionResult create_businesspartner_request()
+        {
+            return View();
+        }
 
 
         public IActionResult Privacy()

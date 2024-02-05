@@ -27,7 +27,7 @@
             <div class="col m-4 d-flex justify-content-end">
                 <button type="button" class="btn btn-outline-info">
                     <div class="d-flex">
-                        <a href="/patient_site.html">
+                        <a asp-controller="Home" asp-action="patient_site">
                             <img src="/Images/SRS Screen Shorts/back_arrow.svg" alt="back_arrow">Back
                         </a>
                     </div>
@@ -40,16 +40,16 @@
                     <h4 class="head">I am a...</h4>
                 </div>
                 <div>
-                    <a href="/create_patient_request.html" class="text-decoration-none">
+                    <a asp-controller="Home" asp-action="create_patient_request" class="text-decoration-none">
                         <div class="button" id="btn_1">Patient</div>
                     </a>
-                    <a href="/create_family-friend_request.html" class="text-decoration-none">
+                    <a asp-controller="Home" asp-action="create_familyfriend_request" class="text-decoration-none">
                         <div class="button" id="btn_2">Family / Friend</div>
                     </a>
-                    <a href="/create_concierge_request.html" class="text-decoration-none">
+                    <a asp-controller="Home" asp-action="create_concierge_request" class="text-decoration-none">
                         <div class="button" id="btn_3">Concierge</div>
                     </a>
-                    <a href="/create_business-partner_request.html" class="text-decoration-none">
+                    <a asp-controller="Home" asp-action="create_businesspartner_request" class="text-decoration-none">
                         <div class="button" id="btn_4">Business Partners</div>
                     </a>
                 </div>

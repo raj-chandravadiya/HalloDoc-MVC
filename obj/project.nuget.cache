@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "54sCrPSAgTKqhK2taCHNdNV5s2zE8IXN8yEP03nvSFInjw/Nb5BfYIHILkbJcFM0o2c/0rS9RZigyQpAUcdsPA==",
+  "dgSpecHash": "jcNM31Nde1ocppqvMOWHsG3RKKr/0UGLGpy4kVSwFKkpbNzKCs5QZ1jig68HhwUnMxHoEPTXB3nfCcVEYhf+Pw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\HalloDoc\\HalloDoc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pci224\\Desktop\\HalloDoc\\Project\\HalloDoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pci224\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\pci224\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\pci224\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\pci224\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
